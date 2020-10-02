@@ -1,3 +1,4 @@
+//RESERVATION : A CPP PROJECT
 //inputs: NumberOfRows, NumberOfSeats, rowSelection, seatSelection, answer
 //output: '-', message if choice is not availaible
 // program to reserve seats and will output appropriate message if inputs are not valid.
